@@ -1,0 +1,23 @@
+id,Code,Name
+1,1,Efectivo
+2,2,Cheque nominativo
+3,3,Transferencia electrónica de fondos
+4,4,Tarjeta de crédito
+5,5,Monedero electrónico
+6,6,Dinero electrónico
+7,8,Vales de despensa
+8,12,Dación en pago
+9,13,Pago por subrogación
+10,14,Pago por consignación
+11,15,Condonación
+12,17,Compensación
+13,23,Novación
+14,24,Confusión
+15,25,Remisión de deuda
+16,26,Prescripción o caducidad
+17,27,A satisfacción del acreedor
+18,28,Tarjeta de débito
+19,29,Tarjeta de servicios
+20,30,Aplicación de anticipos
+21,99,Por definir
+22,31,Intermediario pagos
